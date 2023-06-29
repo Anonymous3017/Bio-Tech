@@ -207,6 +207,27 @@ nav.stroke ul li a:hover:after {
 
 }
 
+.Scroll_text {
+    position: absolute;
+    left: 5%;
+    font-size: large;
+    font-weight: 900;
+    display: flex;
+    flex-direction: row;
+}
+
+.up_dimond {
+    position: absolute;
+    padding-left: 73px;
+    padding-top: 13px;
+}
+
+.bottom_dimond {
+    margin-top: 30px;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
 .round {
     background-color: rgb(252, 252, 253);
     border-radius: 50%;
